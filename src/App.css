@@ -1,3 +1,9 @@
+.btn {
+  background-color: aqua;
+  border: none;
+  padding: 10px 20px;
+}
+
 .App {
   text-align: center;
 }
